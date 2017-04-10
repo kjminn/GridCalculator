@@ -17,13 +17,11 @@
             android:id="@+id/edit1"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:enabled="false"
             />
         <EditText
             android:id="@+id/edit2"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:enabled="false"
             />
     </LinearLayout>
     <GridLayout
